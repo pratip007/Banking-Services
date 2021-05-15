@@ -1,0 +1,61 @@
+body{
+    background-image: url("1.jpg");
+    animation: slide 20s infinite;
+    background-repeat: no-repeat;
+}
+@keyframes slide{
+    25% {
+        background: url("1.jpg");
+    }
+    50% {
+        background: url("2.jpg");
+    }
+    75% {
+        background: url("3.jpg");
+    }
+    100% {
+        background: url("4.jpg");
+    }
+}
+h2 {
+    color: navy;
+    text-shadow: 2px navy;
+    margin-left: 20px;
+}
+#Navigation{
+    height: 50px;
+    width: 100%;
+}
+img{
+    float: right;
+    height: 50px;
+    width: 50px;
+    padding-right: 10px;
+    padding-top: 10px;
+}
+#form{
+    float : right;
+    background-color: skyblue;
+    box-shadow: inset 0px 10px 10px navy;
+    border-bottom-left-radius: 100px;
+    opacity: 0.8;
+}
+#form label{
+    margin-left: 10px;
+}
+#form input{
+    float: right;
+    background-color:tan;
+    margin-right: 10px;
+}
+h3{
+    margin-left: 100px;
+    font-style: italic;
+    color: navy;
+}
+select{
+    margin-left: 90px;
+}
+a{
+    color: white;
+}

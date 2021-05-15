@@ -1,0 +1,43 @@
+#full{
+    background-image: url("trans.jpg");
+    background-repeat: no-repeat;
+}
+#nav{
+    background-color: green;
+    height: 90px;
+    width: 100%;
+    color: black;
+    font-size: 50px;
+    font-family: cursive;
+    border-bottom-right-radius: 400px;
+    opacity: 0.8;
+    text-align: center;
+}
+#bod{
+    height: 520px;
+    width: 100%;
+    font-size: 50px;
+    text-align: center;
+}
+#left{
+    font-size: 30px;
+    border-radius: 5px;
+    background-color: rgb(108, 108, 185);
+    float: left;
+    height: 500px;
+    opacity: 0.8;
+}
+#center{
+    align-self: hover;
+}
+#imge{
+    float: left;
+    height: 90px;
+    width: 90px;
+}
+a:hover{
+background-color: slateblue;
+}
+#hover:hover{
+    background-color: orangered;
+}

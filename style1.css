@@ -1,0 +1,95 @@
+#whole{
+    background-image: url("nat7.jpg");
+    position: fixed;
+}
+#a{
+    text-align: center;
+    text-shadow: 3px 3px 3px black;
+    color: white;
+    height: 100px;
+    width: 100%;
+    background-color: blue;
+   border-top-right-radius: 500px;
+   opacity: 0.8;
+}
+#b{
+   
+    height: 410px;
+    width: 100%;
+    text-align: center;
+}
+#c{
+    color: white;
+    height: 100px;
+    width: 50%;
+    float: right;
+    background-color: blue;
+    border-bottom-left-radius: 500px;
+    opacity: 0.7;
+    border-top-right-radius: 500px;
+}
+#d{
+    float: left;
+    height: 380px;
+    width: 20%;
+    background-color: skyblue;
+    border-radius: 5px;
+    border-bottom-right-radius: 50px;
+    opacity: 0.7;
+   
+}
+#e{
+    float: right;
+    height: 350px;
+    width: 20%;
+    background-color: skyblue;
+    border-radius: 5px;
+    border-bottom-left-radius: 100px;
+    opacity: 0.7;
+}
+h4{
+    border-color: blue;
+    border-style: dashed;
+    border-width: 2px;
+    background-color: grey;
+}
+h3{
+    color: blue;
+}
+h5{
+    color: white;
+}
+#image{
+    float: left;
+    height: 100px;
+    width: 200px;
+}
+button{
+    color: white;
+    background-color: navy;
+    float: right;
+    margin-right: 100px;
+}
+p{
+    font-style: italic;
+    font-family: cursive;
+    font-size: 16px;
+    text-shadow: none;
+    color: black;
+    margin-right: 22%;
+    margin-left: 22%;
+}
+b{
+    color: black;
+    font-size: 50px;
+    text-shadow: white;
+    text-align: center;
+}
+i{
+    font-size: 50px;
+}
+h6{
+    font-size: 15px;
+   float: right;
+   margin-right: 20%;
+}
